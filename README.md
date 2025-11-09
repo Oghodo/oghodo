@@ -38,6 +38,7 @@ courses = [
 ## Let's Connect!
 
 - Here is my LinkedIn https://www.linkedin.com/feed/ profile
+- https://github.com/Oghodo
 - My Facebook profile https://www.facebook.com/profile.php?id=100072251958131
 - And my instagram page https://www.instagram.com/omo.oghodo/
 - https://github.com/Oghodo/oghodo
