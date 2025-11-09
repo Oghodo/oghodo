@@ -9,7 +9,16 @@ I'm a student at Brigham Young University-Idaho, and also a student at The Unive
 - I'm currently learning Web development and software programming 
 - My goals are to make the world a better place and to improve each day on my skills and use them to bless the life of everyone around me
 - Ask me about anything related to web develoment or software programming and i will willing to help.
-
+I have also completed numbers of courses in my software development career so far and they are:
+courses = [
+  { subject: "WDD", number: 130, title: "Web Fundamentals", credits: 2, completed: true },
+  { subject: "WDD", number: 131, title: "Dynamic Web Fundamentals", credits: 2, completed: true },
+  { subject: "CSE", number: 110, title: "Introduction to Programming", credits: 2, completed: true },
+  { subject: "CSE", number: 111, title: "Programming with Functions", credits: 2, completed: true },
+  { subject: "CSE", number: 210, title: "Programming with Classes", credits: 2, completed: true },
+  { subject: "WDD", number: 231, title: "Frontend Web Development I", credits: 2, completed: false }
+];
+"WDD", number: 231, title: "Frontend Web Development I", credits: 2 is the course i am currently studying at the momment.
 ## Technologies and Tools
 
 - Proficient in: CSS, HTML & JAVASCRIPTS
