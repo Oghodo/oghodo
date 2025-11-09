@@ -24,7 +24,7 @@ courses = [
 ## Technologies and Tools
 
 - Proficient in: CSS, HTML & JAVASCRIPTS,MySQL and Paython Language as well
-- Skills: Good with programming and i can help you create any type of website you want, either for personal use or for your business.
+- Skills: I am good with programming and i can help you create any type of website you want, either for personal use or for your business.
 - Microsoft Office proficiency (Word, Excel & PowerPoint) 
 - Administrative Assistance  
 - Data Entry  
@@ -44,7 +44,7 @@ courses = [
 - My GIthub Reprository link https://github.com/Oghodo/oghodo
 
 Feel free to explore my repositories and don't hesitate to reach out. 
-i am expecting your messages.
+i am expecting your messages, i hope to learn more, improve and serve all.
 
 Happy coding! 🚀
 
