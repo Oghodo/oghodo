@@ -1,10 +1,10 @@
-Hi there 👋
+## Hi there 👋
 
-Welcome to my GitHub page!
+## Welcome to my GitHub page!
 
 My name is Oghodo Omoregbe, and I am a student at Brigham Young University–Idaho studying Software Development, as well as a student at University of Benin studying Anatomy. I am passionate about programming, computer science, data science, web development, and machine learning, and I strive to improve every day through projects and learning.
 
-About Me
+## About Me
 
 Currently learning Web Development and Software Programming
 
