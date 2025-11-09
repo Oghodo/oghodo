@@ -18,6 +18,8 @@ I'm a student at Brigham Young University-Idaho interested in learning so much a
 ## Let's Connect!
 
 - Here is my LinkedIn https://www.linkedin.com/feed/ profile
+- My Facebook profile https://www.facebook.com/profile.php?id=100072251958131
+- And my instagram page https://www.instagram.com/omo.oghodo/
 
 Feel free to explore my repositories and don't hesitate to reach out. 
 i am expecting your messages,
