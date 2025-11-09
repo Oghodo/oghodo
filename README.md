@@ -1,26 +1,30 @@
-## Hi there 👋
-Welcome to my GitHub Page!
+Hi there 👋
 
-My name is Oghodo Omoregbe 
-I'm a student at Brigham Young University-Idaho, and also a student at The University of Benin studying Anatomy and interested in learning so much about software and web designing such as: Programming, computer science, data science, web development, machine learning, I hope to improve each day as i work hard on my projects and build myself to become a better programmer and who Heavenly Father wants me to be....>. Welcome to my GitHub profile Page!
+Welcome to my GitHub page!
 
-## About Me
+My name is Oghodo Omoregbe, and I am a student at Brigham Young University–Idaho studying Software Development, as well as a student at University of Benin studying Anatomy. I am passionate about programming, computer science, data science, web development, and machine learning, and I strive to improve every day through projects and learning.
 
-- I'm currently learning Web development and software programming 
-- My goals are to make the world a better place and to improve each day on my skills and use them to bless the life of everyone around me
-- Ask me about anything related to web develoment or software programming and i will willing to help.
-I have also completed numbers of courses in my software development career so far and they are:
+About Me
 
+Currently learning Web Development and Software Programming
 
-courses = [
-  { subject: "WDD", number: 130, title: "Web Fundamentals", credits: 2, completed: true },
-  { subject: "WDD", number: 131, title: "Dynamic Web Fundamentals", credits: 2, completed: true },
-  { subject: "CSE", number: 110, title: "Introduction to Programming", credits: 2, completed: true },
-  { subject: "CSE", number: 111, title: "Programming with Functions", credits: 2, completed: true },
-  { subject: "CSE", number: 210, title: "Programming with Classes", credits: 2, completed: true },
-  { subject: "WDD", number: 231, title: "Frontend Web Development I", credits: 2, completed: false }
-];
-"WDD", number: 231, title: "Frontend Web Development I", credits: 2 is the course i am currently studying at the momment.
+My goals: improve my skills daily, create meaningful projects, and use my knowledge to positively impact others
+
+Ask me about anything related to web development or software programming, and I’ll be happy to help
+
+Courses Completed
+
+WDD130: Web Fundamentals
+
+WDD131: Dynamic Web Fundamentals
+
+CSE110: Introduction to Programming
+
+CSE111: Programming with Functions
+
+CSE210: Programming with Classes
+
+WDD231: Frontend Web Development I (in progress)
 ## Technologies and Tools
 
 - Proficient in: CSS, HTML & JAVASCRIPTS,MySQL and Paython Language as well
