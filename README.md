@@ -26,25 +26,26 @@ courses = [
 - Proficient in: CSS, HTML & JAVASCRIPTS,MySQL and Paython Language as well
 - Skills: Good with programming and i can help you create any type of website you want, either for personal use or for your business.
 - Microsoft Office proficiency (Word, Excel & PowerPoint) 
--Administrative Assistance  
--Data Entry  
--Communication and Interpersonal skills
+- Administrative Assistance  
+- Data Entry  
+- Communication and Interpersonal skills
 
  ADVANCED AQUIRED SKILLS
-  -Web Development
-  -Web and Computer Programming
-  -Software Development 
+  - Web Development
+  - Web and Computer Programming
+  - Software Development 
 
 ## Let's Connect!
 
 - Here is my LinkedIn https://www.linkedin.com/feed/ profile
-- https://github.com/Oghodo
+- My Github Profile link https://github.com/Oghodo
 - My Facebook profile https://www.facebook.com/profile.php?id=100072251958131
 - And my instagram page https://www.instagram.com/omo.oghodo/
-- https://github.com/Oghodo/oghodo
+- My GIthub Reprository link https://github.com/Oghodo/oghodo
 
 Feel free to explore my repositories and don't hesitate to reach out. 
 i am expecting your messages.
+
 Happy coding! 🚀
 
 <!--
