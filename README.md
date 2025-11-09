@@ -29,9 +29,11 @@ courses = [
 -Administrative Assistance  
 -Data Entry  
 -Communication and Interpersonal skills
--Web Development
--Web and Computer Programming
--Software Development 
+
+ ADVANCED AQUIRED SKILLS
+  -Web Development
+  -Web and Computer Programming
+  -Software Development 
 
 ## Let's Connect!
 
