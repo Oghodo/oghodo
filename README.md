@@ -10,6 +10,8 @@ I'm a student at Brigham Young University-Idaho, and also a student at The Unive
 - My goals are to make the world a better place and to improve each day on my skills and use them to bless the life of everyone around me
 - Ask me about anything related to web develoment or software programming and i will willing to help.
 I have also completed numbers of courses in my software development career so far and they are:
+
+
 courses = [
   { subject: "WDD", number: 130, title: "Web Fundamentals", credits: 2, completed: true },
   { subject: "WDD", number: 131, title: "Dynamic Web Fundamentals", credits: 2, completed: true },
@@ -21,8 +23,15 @@ courses = [
 "WDD", number: 231, title: "Frontend Web Development I", credits: 2 is the course i am currently studying at the momment.
 ## Technologies and Tools
 
-- Proficient in: CSS, HTML & JAVASCRIPTS
+- Proficient in: CSS, HTML & JAVASCRIPTS,MySQL and Paython Language as well
 - Skills: Good with programming and i can help you create any type of website you want, either for personal use or for your business.
+- Microsoft Office proficiency (Word, Excel & PowerPoint) 
+-Administrative Assistance  
+-Data Entry  
+-Communication and Interpersonal skills
+-Web Development
+-Web and Computer Programming
+-Software Development 
 
 ## Let's Connect!
 
@@ -31,7 +40,7 @@ courses = [
 - And my instagram page https://www.instagram.com/omo.oghodo/
 
 Feel free to explore my repositories and don't hesitate to reach out. 
-i am expecting your messages,
+i am expecting your messages.
 Happy coding! 🚀
 
 <!--
