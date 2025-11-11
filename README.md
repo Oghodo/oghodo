@@ -6,25 +6,13 @@ My name is Oghodo Omoregbe, and I am a student at Brigham Young University–Ida
 
 ## About Me
 
-Currently learning Web Development and Software Programming
+I’m a passionate and goal-driven professional with a strong interest in software development and a growing background in both technology and anatomical sciences. Currently pursuing a Bachelor of Science in Software Development at Brigham Young University – Idaho (Mar 2025 – Apr 2027), I’m building hands-on experience in web development, front-end design, and programming using technologies such as HTML, CSS, JavaScript, and C#.
 
-My goals: improve my skills daily, create meaningful projects, and use my knowledge to positively impact others
+Alongside this, I’m studying Anatomy at the University of Benin, where I’ve developed analytical and critical thinking skills that complement my problem-solving abilities in tech. I’m also a participant in BYU-Pathway Worldwide’s Certificate program in General Studies, which has strengthened my foundation in communication, teamwork, and professional skills, as well as my proficiency with Python and Microsoft Excel.
 
-Ask me about anything related to web development or software programming, and I’ll be happy to help
+Professionally, I’ve served as an Executive Secretary at Ena Technologies Co., where I supported executive operations, managed financial reporting, and contributed to scholarship initiatives that empower students through education and technology.
 
-Courses Completed
-
-WDD130: Web Fundamentals
-
-WDD131: Dynamic Web Fundamentals
-
-CSE110: Introduction to Programming
-
-CSE111: Programming with Functions
-
-CSE210: Programming with Classes
-
-WDD231: Frontend Web Development I (in progress)
+I’m deeply motivated by opportunities that allow me to bridge technology, innovation, and service, building solutions that make a meaningful impact.
 ## Technologies and Tools
 
 - Proficient in: CSS, HTML & JAVASCRIPTS,MySQL and Paython Language as well
