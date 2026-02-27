@@ -2,13 +2,14 @@
 
 ## Welcome to my GitHub page!
 
-My name is Oghodo Omoregbe, and I am a student at Brigham Young University–Idaho studying Software Development, as well as a student at University of Benin studying Anatomy. I am passionate about programming, computer science, data science, web development,IT supports and machine learning, and I strive to improve every day through projects and countinous learning.
+My name is Oghodo Omoregbe, a footballer and a student at Brigham Young University–Idaho studying Software Development, as well as a student at University of Benin studying Anatomy. I am passionate about programming, computer science, data science, web development,IT supports and machine learning, and I strive to improve every day through projects and countinous learning.
 
 ## About Me
-
 I’m a passionate and goal-driven professional with a strong interest in software development and a growing background in both technology and anatomical sciences. Currently pursuing a Bachelor of Science in Software Development at Brigham Young University – Idaho (Mar 2025 – Apr 2027), I’m building hands-on experience in web development, front-end design, and programming using technologies such as HTML, CSS, JavaScript, and C#.
 
-Alongside this, I’m studying Anatomy at the University of Benin, where I’ve developed analytical and critical thinking skills that complement my problem-solving abilities in techcnology and human learning. I am also a footballer(Soccer player).
+I am also a footballer, I  graduated from  Augustine Eguavoen Football Academy in 2022 and learnt alot from the Super Eagles of Nigeria Lagend and former coach of Nigeria, learning from him and growing as a player and as a responsible citizen at an early age. After graduating from Austine Eguavoen Academy i went to a 6 months trials with Bendel Insurance of benin as a very young player learning from amazing coaches like coach ebiaku and coach sheyi, those few months helped me improve as a player after graduating from my academy level after that i went on to chase my higher education at the university of benin where i am now representing my departmental football teams Anatomy and Faculty BMS in several competitions in the university of benin. Currently i am also playing as a striker for two local football teams one at the University of benin teaching hospital field for a team known as London fc,another at leaders colledge ekewan road benin city for a team known as OG Foundation.learning each day and preparing to go to the professional level and the highest stage of professional football.
+
+Alongside this, I’m studying Anatomy at the University of Benin, where I’ve developed analytical and critical thinking skills that complement my problem-solving abilities in techcnology and human learning.
  I’m also a participant in BYU-Pathway Worldwide’s Certificate program in General Studies, which has strengthened my foundation in communication, teamwork, and professional skills, as well as my proficiency with Python and Microsoft Excel.
 
 Professionally, I’ve served as an Executive Secretary at Ena Technologies Co., where I supported executive operations, managed financial reporting, and contributed to scholarship initiatives that empower students through education and technology, I also works as an IT support specialist at seeklink foundation.
