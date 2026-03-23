@@ -1,128 +1,108 @@
-👋 Hi, I'm Omoregbe Oghodo
+# 👋 Hi, I'm Omoregbe Oghodo
 ⚽ Footballer | 💻 Software Developer | 🧠 Anatomy Student
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I balance academics and athletics, studying **Software Development** at Brigham Young University–Idaho and **Anatomy** at the University of Benin, while actively pursuing my career as a professional footballer (Forward).
 
-I balance academics and athletics at a high level, studying Software Development at Brigham Young University–Idaho and Anatomy at the University of Benin, while actively pursuing my career as a professional footballer (Forward).
+---
 
-🚀 About Me
+## 🚀 About Me
+I am passionate about **technology, football, and continuous self-improvement**. My journey combines analytical thinking from anatomy with problem-solving skills from software development.
 
-I am passionate about technology, football, and continuous self-improvement. My journey combines analytical thinking from anatomy with problem-solving skills from software development.
+---
 
-⚽ Football Career
-Augustine Eguavoen Football Academy (2022)
-Trained under Nigerian football legend Augustine Eguavoen
-Trialed with Bendel Insurance FC
-Developed under experienced coaches and competitive systems
-Both-Footed Player
-Current Captain — UNIBEN Anatomy Male Football Team
-Leading the team in competitions, fostering teamwork, and promoting discipline
-📊 Football Stats & Highlights
+## ⚽ Football Career
+- **Augustine Eguavoen Football Academy (2022)** — trained under Nigerian legend Augustine Eguavoen  
+- Trialed with **Bendel Insurance FC** — developed under experienced coaches  
+- **Both-Footed Player**  
+- **Captain — UNIBEN Anatomy Male Football Team** — leading competitions and fostering teamwork
 
-Position: Forward
-Role: Captain (UNIBEN Anatomy Team)
-Playing Style: Aggressive forward with strong positioning and clinical finishing
-Key Strengths: Finishing, positioning, movement off the ball, leadership, teamwork
+---
 
-🏆 Official Competitions (University of Benin)
-Competition	Appearances	Goals	Assists	Notes
-Uniben Super Cup	2	0	0	–
-Panecea Cup	4	0	0	Runner-Up
-🏫 Faculty Level Competitions
-Competition	Appearances	Goals	Assists	Notes
-BMS Deans Cup	4	0	0	Runner-Up
-BMD Cup	6	6	1	1-time Winner, 1-time Best Player Award
-BMS Community Shield	3	0	0	–
-BMS Super Cup	5	0	1	2-time Runner-Up
-🏢 Departmental Level Competitions
-Competition	Appearances	Goals	Assists	Notes
-HOD's Cup	11	14	7	2-time Champion, 1-time Runner-Up, 1-time Top Scorer Award
+## 📊 Football Stats & Highlights
 
-🏅 Individual Achievements
-Top Scorer — HOD’s Cup
-14 goals in 11 appearances
-Best Player — BMD Cup
-Outstanding performance helping the team win the title
-Captain’s Award — UNIBEN Anatomy Team
-Recognized for leadership, teamwork, and discipline on and off the pitch
-Voted 23rd Best Player — BMS Award Ceremony (2025)
-Recognized among top players in the Faculty of Basic Medical Sciences
-Club-Level Achievements
-Top Scorer and Best Player awards with London FC and OG Foundation FC
-Grassroots Competitions
-Participated in tournaments including the Stephen Keshi Under-17 Tournament and other grassroots events
-Academic Excellence — Anatomy Program
-Consistently ranked among top-performing students
-Software Development Achievement — BYU–Idaho
-Completed challenging coding projects and coursework successfully
+**Position:** Forward  
+**Role:** Captain  
+**Playing Style:** Aggressive forward with strong positioning and clinical finishing  
 
-📈 Overall Performance
-Total Matches Played: 35
-Total Goals Scored: 20
-Total Assists: 9
+**Key Strengths:**  
+Finishing | Positioning | Movement off the ball | Leadership | Teamwork  
 
-Current Teams:
+**Performance Badges:**  
+![Matches](https://img.shields.io/badge/Matches-35-blue)  
+![Goals](https://img.shields.io/badge/Goals-20-brightgreen)  
+![Assists](https://img.shields.io/badge/Assists-9-orange)  
 
-London FC (UBTH Field, Benin City)
-OG Foundation FC (Ekewan Road, Benin City)
+---
 
-Career Goal: Play at the highest level of professional football
+### 🏆 Competitions
 
-💻 Tech Journey
+**University Level**  
+- Uniben Super Cup — 2 appearances, 0 goals  
+- Panecea Cup — 4 appearances, 0 goals, Runner-Up  
 
-I am building strong skills in software development, focusing on real-world applications.
+**Faculty Level**  
+- BMS Deans Cup — 4 appearances, Runner-Up  
+- BMD Cup — 6 appearances, 6 goals, 1 assist, Winner & Best Player  
+- BMS Community Shield — 3 appearances  
+- BMS Super Cup — 5 appearances, 2-time Runner-Up  
 
-🎓 B.Sc. Software Development — BYU–Idaho (2025–2027)
-🎓 B.Sc. Anatomy — University of Benin
-🎓 BYU-Pathway Worldwide Certificate Completed (General Studies)
+**Departmental Level**  
+- HOD's Cup — 11 appearances, 14 goals, 7 assists, 2-time Champion, 1-time Runner-Up, Top Scorer  
 
-I enjoy creating solutions through code and continuously improving my technical abilities.
+---
 
-🛠️ Technologies & Skills
+## 🏅 Individual Achievements
+- **Top Scorer — HOD’s Cup** (14 goals)  
+- **Best Player — BMD Cup**  
+- **Captain’s Award — UNIBEN Anatomy Team**  
+- **Voted 23rd Best Player — BMS Award Ceremony (2025)**  
+- **Club-Level Achievements:** Top Scorer & Best Player awards with London FC & OG Foundation FC  
+- **Grassroots Competitions:** Stephen Keshi U-17 Tournament and other grassroots tournaments  
+- **Academic Excellence — Anatomy Program**  
+- **Software Development Achievement — BYU–Idaho**
 
-Programming & Development: HTML, CSS, JavaScript, C#, Python, MySQL
-Tools & Other Skills: Microsoft Office, IT Support, Data Entry, Communication & Team Collaboration
-Core Strengths: Web Development, Software Development, Problem Solving, Leadership & Teamwork
+---
 
-💼 Experience
+## 💻 Tech Journey
+🎓 B.Sc. Software Development — BYU–Idaho (2025–2027)  
+🎓 B.Sc. Anatomy — University of Benin  
+🎓 BYU-Pathway Worldwide Certificate Completed (General Studies)  
 
-Executive Secretary — Ena Technologies Co.
+**Core Skills:**  
+HTML | CSS | JavaScript | C# | Python | MySQL  
+Microsoft Office | IT Support | Data Entry | Team Collaboration  
 
-Supported executive operations
-Managed reports and documentation
-Contributed to scholarship and tech initiatives
+**Strengths:** Web Development | Software Development | Problem Solving | Leadership & Teamwork  
 
-IT Support Specialist — SeekLink Foundation
+---
 
-Provided technical support and troubleshooting
-Assisted users with system and software issues
-🌍 Connect with Me
-🔗 LinkedIn: Omoregbe Oghodo
-💻 GitHub: Oghodo
-📘 Facebook: Profile
-📸 Instagram: @o.oghodo
-🌐 Portfolio: GitHub Portfolio
-📈 Vision
+## 💼 Experience
+**Executive Secretary — Ena Technologies Co.**  
+- Supported executive operations  
+- Managed reports and documentation  
+- Contributed to scholarship & tech initiatives  
 
-I am committed to:
+**IT Support Specialist — SeekLink Foundation**  
+- Provided technical support  
+- Assisted users with system and software issues  
 
-Becoming a professional footballer at the highest level
-Becoming a skilled software developer building impactful solutions
+---
 
-I believe in discipline, growth, and consistency — both on the pitch and in tech.
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omoregbe-blue?logo=linkedin)](https://www.linkedin.com/in/omoregbe-oghodo-174a162a5/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Oghodo-black?logo=github)](https://github.com/Oghodo)  
+[![Instagram](https://img.shields.io/badge/Instagram-@o.oghodo-purple?logo=instagram)](https://www.instagram.com/o.oghodo/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100072251958131)  
+
+---
+
+## 📈 Vision
+I am committed to:  
+- Becoming a **professional footballer at the highest level**  
+- Becoming a **skilled software developer building impactful solutions**  
+
+Discipline, growth, and consistency guide me — both on the pitch and in tech.
+
+---
 
 ⭐ Explore my repositories, connect, and collaborate!
-<!--
-**Oghodo/oghodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
