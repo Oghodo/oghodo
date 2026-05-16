@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Omoregbe Oghodo
 ⚽ Footballer | 💻 Software Developer | 🧠 Anatomy Student
 
-Welcome to my GitHub profile! I balance academics and athletics, studying **Software Development** at Brigham Young University–Idaho and **Anatomy** at the University of Benin, while actively pursuing my career as a professional footballer (Forward).
+Welcome to my GitHub profile! I balance academics and athletics, studying **Software Development** at Brigham Young University–Idaho and **Anatomy** at the University of Benin, while actively pursuing my career as a professional footballer.
 
 ---
 
@@ -10,11 +10,13 @@ I am passionate about **technology, football, and continuous self-improvement**.
 
 ---
 
-## ⚽ Football Career
+## ⚽My Football Career
 - **Augustine Eguavoen Football Academy (2022)** — trained under Nigerian legend Augustine Eguavoen  
 - Trialed with **Bendel Insurance FC** — developed under experienced coaches  
 - **Both-Footed Player**  
 - **Captain — UNIBEN Anatomy Male Football Team** — leading competitions and fostering teamwork
+- Uniben Unity Manchester United Foward
+- Current Professional team- Konstanz Dike Foundation
 
 ---
 
@@ -47,7 +49,11 @@ Finishing | Positioning | Movement off the ball | Leadership | Teamwork
 - BMS Super Cup — 5 appearances, 2-time Runner-Up  
 
 **Departmental Level**  
-- HOD's Cup — 11 appearances, 14 goals, 7 assists, 2-time Champion, 1-time Runner-Up, Top Scorer  
+- HOD's Cup — 11 appearances, 14 goals, 7 assists, 2-time Champion, 1-time Runner-Up, Top Scorer
+
+- **Pro Level**
+- Stephen Keshi U17 tournament representing Dynamo
+- Grassroot U15 and U17 representing Santos FC
 
 ---
 
